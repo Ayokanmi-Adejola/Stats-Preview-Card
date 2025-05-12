@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Live Demo](https://github.com/Ayokanmi-Adejola/Stats-Preview-Card)
+- Solution URL: [Live Demo](https://ayokanmi-adejola.github.io/Stats-Preview-Card/)
 
 ## My process
 
